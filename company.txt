@@ -1,0 +1,22 @@
+ACME Tech Company - Employee Handbook
+
+Leave Policy:
+Employees get 20 days of paid leave per year.
+Sick leave is 10 days per year.
+Leave must be applied 2 weeks in advance except for emergencies.
+Unused leave can be carried forward up to 5 days only.
+
+Work Hours:
+Office hours are 9 AM to 6 PM Monday to Friday.
+Remote work is allowed on Wednesdays and Fridays.
+Overtime is paid at 1.5x the hourly rate.
+
+Salary and Benefits:
+Salaries are paid on the 1st of every month.
+Health insurance covers employee and immediate family.
+Annual bonus is based on performance review in December.
+
+Code of Conduct:
+Employees must maintain confidentiality of company data.
+Harassment of any kind will result in immediate termination.
+All disputes must be reported to HR within 48 hours.
