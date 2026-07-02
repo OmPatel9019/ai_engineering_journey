@@ -32,3 +32,34 @@ Built a simple Retrieval-Augmented Generation (RAG) system that answers question
 - Groq API
 - LLaMA 3.3 70B
 - Basic RAG Pipeline
+
+  # Day 3 — AI Roadmap Agent
+
+Built my first AI agent that generates personalized 90-day learning roadmaps based on a user's career goal.
+
+### Features
+
+- Accepts a user's target role (e.g., Frontend Developer, AI Engineer)
+- Understands and plans the learning path
+- Breaks learning into phases and milestones
+- Generates a detailed day-by-day roadmap
+- Provides learning resources and project suggestions
+
+## Example
+
+Input:
+Frontend Developer
+
+Output:
+A personalized 90-day roadmap covering:
+- HTML, CSS, JavaScript
+- React and frontend frameworks
+- State management
+- Responsive design and UI/UX
+- Projects and interview preparation
+
+## Stack
+
+- Python
+- Groq API
+- LLaMA 3.3 70B
