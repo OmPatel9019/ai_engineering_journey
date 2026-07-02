@@ -33,7 +33,7 @@ Built a simple Retrieval-Augmented Generation (RAG) system that answers question
 - LLaMA 3.3 70B
 - Basic RAG Pipeline
 
-  # Day 3 — AI Roadmap Agent
+### Day 3 — AI Roadmap Agent
 
 Built my first AI agent that generates personalized 90-day learning roadmaps based on a user's career goal.
 
