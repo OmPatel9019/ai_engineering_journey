@@ -16,3 +16,19 @@ Features:
 - Python
 - Groq API
 - LLaMA 3.3 70B model
+
+### Day 2 — Document Question Answering with RAG
+
+Built a simple Retrieval-Augmented Generation (RAG) system that answers questions from documents.
+
+### Features
+- Load and process documents
+- Retrieve relevant information based on user queries
+- Generate answers using retrieved context
+- Conversational question answering
+
+## Stack
+- Python
+- Groq API
+- LLaMA 3.3 70B
+- Basic RAG Pipeline
